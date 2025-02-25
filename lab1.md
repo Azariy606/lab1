@@ -1,4 +1,4 @@
 <h1>Коробко Азар</h1>
-# ИТ2201
-### Репозиторий для лабораторных работ
-![image](https://www.glossary-internet.ru/terms/%CC/mem/)
+<p>ИТ2201</p>
+<p>Знаете этого актера?</p>
+![image](https://www.glossary-internet.ru/upload/medialibrary/7ab/7ab1525b231954f9fd31c01157093b20.jpg)
