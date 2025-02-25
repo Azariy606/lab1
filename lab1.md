@@ -1,8 +1,4 @@
+<h1>Коробко Азар</h1>
 # ИТ2201
-## Коробко Азар 
 ### Репозиторий для лабораторных работ
-![image](https://www.google.com/search?q=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8+%D0%BC%D0%B5%D0%BC+&sca_esv=acf673aa48e31f36&udm=2&biw=1536&bih=791&sxsrf=AHTn8zr9tAQJx5ZXAmpBVpBiL_om9dwaew%3A1740505761660&ei=oQK-Z4P_J5aSwPAPv4-zqQY&ved=0ahUKEwjD05ydsd-LAxUWCRAIHb_HLGUQ4dUDCBE&uact=5&oq=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8+%D0%BC%D0%B5%D0%BC+&gs_lp=EgNpbWciGNC60LDRgNGC0LjQvdC60Lgg0LzQtdC8IDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIyhZQmAFY9RRwAngAkAEAmAGiAaAB_AWqAQMwLja4AQPIAQD4AQGYAgigAtgGwgINEAAYgAQYsQMYQxiKBcICBhAAGAcYHsICCBAAGIAEGLEDwgIKEAAYgAQYQxiKBcICCxAAGIAEGLEDGIMBwgIEEAAYA8ICBxAAGIAEGAqYAwCIBgGSBwMyLjagB9wk&sclient=img#vhid=RTcHlZXRhy1RXM&vssid=mosaic)
-pussy
-1. one
-2. two
-3. three
+![image](https://www.glossary-internet.ru/terms/%CC/mem/)
